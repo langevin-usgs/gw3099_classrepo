@@ -6,7 +6,7 @@ Lincoln, Nebraska
 October 22 - 26, 2018
 
 ## Location
-* Classroom: Nebraska State Office Building, 1526 K Street, Lincoln, NE
+* Classroom: Nebraska State Office Building, 1526 K Street, Lincoln, NE.  We have one room on 4th floor for Monday-Wednesday, called Hearing Room 4D.  For Thursday and Friday we will be in the Training Room in the basement.
 * Hotel Block: The Lincoln Marriott Cornhusker Hotel
 
 ## Course Description
@@ -108,16 +108,25 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 ## Software
 
 * mf6
-* mf6beta
+* mf6beta (with CSUB and GWT)
 * zbud6
 * mf5to6
 * modpath7
 * mt3d-usgs
+* gsflow
 * pestpp
 * gridgen
 * triangle
 * model viewer
-* Anaconda Python Distribution
-* ArcGIS
+* ArcGIS (10.5 or newer)
+    * Python 2.7 package --- Jupyter
 * git
+* Anaconda Python Distribution
+    * Python version 3.6 or newer
+    * Numpy
+    * Matplotlib
+    * Pandas
+    * Scipy
+    * Flopy
+    * Geopandas
 
