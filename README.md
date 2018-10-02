@@ -37,7 +37,7 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 |8:30 AM   |Introductions and Class Overview |1 hour, Langevin            |
 |9:30 AM   |Python Crash Course              |1 hour, Fienen              |
 |10:30 AM  |BREAK                            |15 minutes                  |
-|10:45 AM  |Flopy Introduction               |1 hour 15 minutes, Langevin |
+|10:45 AM  |Flopy Introduction               |1 hour 15 minutes, Hughes   |
 |12:00 PM  |LUNCH                            |1 hour 15 minutes           |
 |1:15 PM   |MODFLOW 6 Overview               |45 minutes, Langevin        |
 |2:00 PM   |First MODFLOW 6 Model            |45 minutes, Hughes          |
