@@ -123,10 +123,12 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 * git
 * Anaconda Python Distribution
     * Python version 3.6 or newer
+    * Jupyter
     * Numpy
     * Matplotlib
     * Pandas
     * Scipy
     * Flopy
+    * Pyshp
     * Geopandas
 
