@@ -1,0 +1,36 @@
+# Python specific
+*.pyc
+
+# Generic files to ignore
+*~
+*.lock
+*.bak
+log
+
+# PyCharm
+.idea
+
+# Model parameter files, folders, and shapefiles
+hru_params
+*.param
+
+# Project specific files and file types
+*.mxd
+*.img.aux.xml
+*.shp.xml
+*.cpg
+
+<<<<<<< HEAD
+scripts/custom
+scripts/old
+
+*.param
+*.param
+
+# CRT
+*CRT1.4_beta.exe
+=======
+# CRT
+CRT1.4_beta.exe
+CRT_1.3.1.exe
+>>>>>>> origin/master
