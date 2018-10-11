@@ -75,7 +75,7 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 |3:30 PM	|xxx					|1 hour, xxx           |
 |4:30 PM	|ADJOURN                |                      |
 
-### Thursday (PEST++)
+### Thursday (PEST++, GSFLOW)
 
 |Time       |Topic                  |Duration, Lead        |
 |-----------|-----------------------|----------------------|
@@ -87,23 +87,21 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 |1:15 PM	|xxx					|1 hour, xxx           |
 |2:15 PM	|xxx					|1 hour, xxx           |
 |3:15 PM    |BREAK				    |15 minutes            |
-|3:30 PM	|xxx					|1 hour, xxx           |
+|3:30 PM	|GSFLOW overview		|1 hour, Rich           |
 |4:30 PM	|ADJOURN                |                      |
 
 ### Friday (GSFLOW, MODSIM, MT3DMS)
 
 |Time       |Topic                  |Duration, Lead        |
 |-----------|-----------------------|----------------------|
-|8:30 AM	|xxx					|1 hour, xxx           |
-|9:30 AM 	|xxx					|1 hour, xxx           |
-|10:30 AM	|BREAK				    |15 minutes            |
-|10:45 AM	|xxx					|1 hour 15 minutes, xxx|
-|12:00 PM	|LUNCH				    |1 hour 15 minutes     |
-|1:15 PM	|xxx					|1 hour, xxx           |
-|2:15 PM	|xxx					|1 hour, xxx           |
-|3:15 PM    |BREAK				    |15 minutes            |
-|3:30 PM	|xxx					|1 hour, xxx           |
-|4:30 PM	|ADJOURN                |                      |
+|8:30  AM	|Sagehen exercise					|2 hours, Rich         |
+|10:30 AM	|BREAK				            |15 minutes            |
+|10:45 AM	|MODSIM-GSFLOW overview		|45 minutes, Eric/Rich |
+|11:30 AM	|MT3DUSGS introduction    |15 minutes, Eric      |
+|11:45 PM	|LUNCH				            |1 hour 15 minutes     |
+|1:00  PM	|MT3DUSGS	overview        |1 hour, Eric          |
+|2:00  PM	|MT3DUSGS	exercise        |1 hour, Eric          |
+|3:00  PM	|ADJOURN                  |                      |
 
 ## Software
 
