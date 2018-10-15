@@ -1,0 +1,13 @@
+BEGIN OPTIONS
+  SAVE_FLOWS
+END OPTIONS
+
+BEGIN PACKAGES
+  DIS6 ex01.dis
+  NPF6 ex01.npf
+  IC6  ex01.ic
+  WEL6 ex01.wel
+  RIV6 ex01.riv
+  RCH6 ex01.rch
+  OC6  ex01.oc
+END PACKAGES
