@@ -26,8 +26,9 @@ mfexe = os.path.abspath(os.path.join(exepth, 'mf2005{}'.format(exeext)))
 mpexe = os.path.abspath(os.path.join(exepth, 'mp7{}'.format(exeext)))
 mtexe = os.path.abspath(os.path.join(exepth, 'mt3dms{}'.format(exeext)))
 mf6exe = os.path.abspath(os.path.join(exepth, 'mf6{}'.format(exeext)))
+gridgenexe = os.path.abspath(os.path.join(exepth, 'gridgen{}'.format(exeext)))
 
-exelist = [mfexe, mpexe, mtexe, mf6exe]
+exelist = [mfexe, mpexe, mtexe, mf6exe, gridgenexe]
 for e in exelist:
     if not os.path.isfile(e):
         print('Executable file could not be found: {}'.format(e))
