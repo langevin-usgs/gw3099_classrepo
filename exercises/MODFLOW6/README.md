@@ -44,7 +44,11 @@ The sequence of steps will be as follows:
 
 ## EXERCISE 2
 
+The purpose of this exercise is to learn how to use Flopy to create MODFLOW 6 models.  We will create the same model as in the first exercise, except we will construct the model in a jupyter notebook.
+
 ## EXERCISE 3
+
+The purpose of this exercise is to introduce the Discretization by Vertices (DISV) Package.  In this exercise, we will again create the same model except we will construct the grid using cell vertices and a cell definition list.
 
 ## EXERCISE 4
 
@@ -56,7 +60,12 @@ In this exercise we will use the GRIDGEN program to create the quadtree grid.
 
 ## EXERCISE 5
 
+The purpose of this exercise is to demonstrate the use of multiple Groundwater Flow (GWF) models to simulate Example Problem 1.
+
 ## EXERCISE 6
+
+The purpose of this exercise is to
 
 ## EXERCISE 7
 
+The purpose of this exercise is to
