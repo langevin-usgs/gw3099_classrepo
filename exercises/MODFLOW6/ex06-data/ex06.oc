@@ -1,8 +1,8 @@
 # OC8 input file, prepared by MF5to6 on 1/24/2017 at 17:28:41.
 
 BEGIN Options
-  BUDGET FILEOUT  gwt.cbc
-  HEAD FILEOUT  gwt.hds
+  BUDGET FILEOUT  ex06.cbc
+  HEAD FILEOUT  ex06.hds
   HEAD PRINT_FORMAT  COLUMNS 10  WIDTH 11  DIGITS 4  GENERAL             
 END Options
 
