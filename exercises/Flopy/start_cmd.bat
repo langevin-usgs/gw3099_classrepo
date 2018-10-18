@@ -4,7 +4,7 @@ set mc3=%retval%
 echo Miniconda located in %mc3%
 
 set PATH=%mc3%;%mc3%\Scripts;%PATH%
-%mc3%\scripts\jupyter notebook
+cmd
 
 rem pause so screen will not go away
 pause
