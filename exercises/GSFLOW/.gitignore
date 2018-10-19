@@ -11,7 +11,10 @@ log
 .idea
 
 # Model parameter files, folders, and shapefiles
-hru_params
+hru_params/
+!/examples/sagehen/hru_params/prms_dimensions.csv
+!/examples/sagehen/hru_params/prms_parameters.csv
+
 *.param
 
 # Project specific files and file types
@@ -32,5 +35,5 @@ scripts/old
 =======
 # CRT
 CRT1.4_beta.exe
-CRT_1.3.1.exe
+#CRT_1.3.1.exe
 >>>>>>> origin/master
