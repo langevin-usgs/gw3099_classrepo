@@ -11,7 +11,23 @@ log
 .idea
 
 # Model parameter files, folders, and shapefiles
-hru_params/
+hru_params/hru_*
+cascade_work/
+dem_rasters/
+fill_work/
+fishnet_temp/
+flow_rasters/
+hru_temp/
+impervious_rasters/
+logs/
+ppt_rasters/
+ppt_ratio_temp/
+ppt_ratio_temp/
+soil_rasters/
+stream_rasters/
+tmax_rasters/
+tmin_rasters/
+veg_rasters/
 !/examples/sagehen/hru_params/prms_dimensions.csv
 !/examples/sagehen/hru_params/prms_parameters.csv
 
