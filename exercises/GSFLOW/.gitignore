@@ -41,10 +41,3 @@ veg_rasters/
 *.cpg
 
 *.param
-
-# CRT
-*CRT1.4_beta.exe
-=======
-# CRT
-CRT1.4_beta.exe
-#CRT_1.3.1.exe
