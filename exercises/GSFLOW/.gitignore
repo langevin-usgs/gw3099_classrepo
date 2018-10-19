@@ -11,7 +11,8 @@ log
 .idea
 
 # Model parameter files, folders, and shapefiles
-hru_params/hru_*
+hru_params.*
+hru_params_*
 cascade_work/
 dem_rasters/
 fill_work/
@@ -28,8 +29,8 @@ stream_rasters/
 tmax_rasters/
 tmin_rasters/
 veg_rasters/
-!/examples/sagehen/hru_params/prms_dimensions.csv
-!/examples/sagehen/hru_params/prms_parameters.csv
+!exercises/gsflow/examples/sagehen/hru_params/prms_dimensions.csv
+!exercises/gsflow/examples/sagehen/hru_params/prms_parameters.csv
 
 *.param
 
@@ -39,11 +40,6 @@ veg_rasters/
 *.shp.xml
 *.cpg
 
-<<<<<<< HEAD
-scripts/custom
-scripts/old
-
-*.param
 *.param
 
 # CRT
@@ -52,4 +48,5 @@ scripts/old
 # CRT
 CRT1.4_beta.exe
 #CRT_1.3.1.exe
->>>>>>> origin/master
+
+output/
