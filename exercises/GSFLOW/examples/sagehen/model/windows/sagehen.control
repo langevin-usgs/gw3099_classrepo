@@ -212,7 +212,7 @@ precip_1sta
 param_print_file
 1
 4
-.\model\output\sagehen.parprt
+./model/output/sagehen.parprt
 ####
 save_vars_to_file
 1
@@ -304,12 +304,12 @@ temp_1sta
 var_save_file
 1
 4
-.\output\prms_ic.out
+./output/prms_ic.out
 ####
 stats_output_file
 1
 4
-.\output\stats1.out
+./output/stats1.out
 ####
 var_init_file
 1
