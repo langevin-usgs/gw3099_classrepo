@@ -18,11 +18,13 @@ Instructions to use Sagehen example problem notebook
  (2)  Install pyprms into Arcpy folder
 							--Copy pyprms folder from C:\Users\rniswon\Documents\Data\Git\gw3099_classrepo\exercises\GSFLOW\prmspy
 							--Paste pyprms folder into C:\Python27\ArcGIS10.5\Lib\site-packages.
+ 
+ (3)  Change paths in configuration file. 
+              --Navigate to: .\gw3099_classrepo\exercises\GSFLOW\examples\sagehen.
+              --Open “sagehen_parameters.ini” in text editor.
+              --Replace first part of paths by globally replacing “C:\Users\rniswon\Documents\Data\Git\“ using the correct path for your computer.
 
- (3)  Change file extension for gsflow
-              --Change “gsflow.txt” to “gsflow.exe” in gw3099_classrepo\exercises\GSFLOW\examples\sagehen\model\bin
-              
-              
+                        
  (4)  Open Jupyter Notebook
               --Navigate to .\ gw3099_classrepo\exercises\GSFLOW\notebook
               --Right click on “jupyter.bat” file and open in text editor.
