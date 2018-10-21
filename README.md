@@ -45,7 +45,7 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 |3:00 PM   |Flow Formulations                |45 minutes, Langevin        |
 |4:30 PM   |ADJOURN                          |                            |
 
-### Tuesda (MODFLOW 6)
+### Tuesday (MODFLOW 6)
 
 |Time       |Topic                  |Duration, Lead        |
 |-----------|-----------------------|----------------------|
@@ -79,13 +79,13 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 
 |Time       |Topic                  |Duration, Lead        |
 |-----------|-----------------------|----------------------|
-|8:30 AM	|xxx					|1 hour, xxx           |
-|9:30 AM 	|xxx					|1 hour, xxx           |
+|8:30 AM	|Obtaining Software					|1 hour, Fienen           |
+|9:30 AM 	|PEST Overview					|1 hour, Fienen           |
 |10:30 AM	|BREAK				    |15 minutes            |
-|10:45 AM	|xxx					|1 hour 15 minutes, xxx|
+|10:45 AM	|Uncertainty Analysis					|1 hour 15 minutes, Fienen |
 |12:00 PM	|LUNCH				    |1 hour 15 minutes     |
-|1:15 PM	|xxx					|1 hour, xxx           |
-|2:15 PM	|xxx					|1 hour, xxx           |
+|1:15 PM	|Pilot Points					|1 hour, Fienen           |
+|2:15 PM	|iES 					|1 hour, Fienen           |
 |3:15 PM    |BREAK				    |15 minutes            |
 |3:30 PM	|GSFLOW overview		|1 hour, Rich           |
 |4:30 PM	|ADJOURN                |                      |
