@@ -48,20 +48,20 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 
 ### Tuesday (MODFLOW 6)
 
-|Time       |Topic                  |Duration, Lead        |
-|-----------|-----------------------|----------------------|
-|8:30 AM	|Discretization         |30 minutes, Langevin  |
-|9:00 AM 	|mf6 ex03    			|1 hour, Langevin      |
-|10:30 AM	|BREAK				    |15 minutes            |
-|10:45 AM	|mf6 ex03 (cont)		|45 minutes, Langevin  |
-|11:30 AM	|GRIDGEN        		|30 minutes, Langevin  |
-|12:00 PM	|LUNCH				    |1 hour 15 minutes     |
-|1:15 PM	|ex04					|1 hour, Langevin      |
-|2:15 PM	|LGR					|30 minutes, Langevin  |
-|2:45 PM	|ex05					|30 minutes, Langevin  |
-|3:15 PM    |BREAK				    |15 minutes            |
-|3:30 PM	|ex05 (cont)			|1 hour, Langevin      |
-|4:30 PM	|ADJOURN                |                      |
+|Time       |Topic                           |Duration, Lead        |
+|-----------|--------------------------------|----------------------|
+|8:30 AM	|MODFLOW 6 Discretization        |30 minutes, Langevin  |
+|9:00 AM 	|mf6 ex03    			         |1 hour, Langevin      |
+|10:30 AM	|BREAK				             |15 minutes            |
+|10:45 AM	|XT3D (mf6 ex03 cont)	         |45 minutes, Langevin  |
+|11:30 AM	|MODFLOW 6 and GRIDGEN     		 |30 minutes, Langevin  |
+|12:00 PM	|LUNCH				             |1 hour 15 minutes     |
+|1:15 PM	|mf6 ex04				         |1 hour, Langevin      |
+|2:15 PM	|MODFLOW 6 LGR  				 |30 minutes, Langevin  |
+|2:45 PM	|mf6 ex05					     |30 minutes, Langevin  |
+|3:15 PM    |BREAK				             |15 minutes            |
+|3:30 PM	|mf6 ex05 (cont)			     |1 hour, Langevin      |
+|4:30 PM	|ADJOURN                         |                      |
 
 ### Wednesday (MODFLOW 6)
 
