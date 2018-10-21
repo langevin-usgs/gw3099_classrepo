@@ -64,8 +64,19 @@ The purpose of this exercise is to demonstrate the use of multiple Groundwater F
 
 ## EXERCISE 6
 
-The purpose of this exercise is to
+The purpose of this exercise is to add observations to an existing MODFLOW 6 model using FloPy and plot the results. The model is based on test simulation 2 in [Prudic and others (2004)](https://water.usgs.gov/nrp/gwsoftware/modflow2000/ofr2004-1042.pdf) and is meant to represent  a sand and gravel aquifer in Cape Cod, Massachusetts.
+
+The aquifer is moderately permeable and is assumed to have homogeneous properties and uniform thickness. The aquifer was discretized into 8 layers (each 15 ft thick), 36 rows (at equal spacing of 405.7 ft), and 23 columns (at equal spacing of 403.7 ft). The model has 2 stress periods. The first stress period has a length of 1 day and is steady-state. The second stress period has a length of 5,000 days, is transient, and has 50 equal length time steps (100 day time step length).
+
+The first and second stress periods have a recharge rate of 0.00479000 and 0.00526900 ft/day, respectively. Two lakes are located within the model domain and are represented as constant heads. The eastern lake (lake 1) is connected to a stream. Both lakes only occupy cells within the first model layer; this enables horizontal leakage between the lakes and adjacent active aquifer cells in layer 1 and vertical leakage between the lakes and underlying active aquifer cells in layer 2. Streams are connected to model layer 1 and represented as river (RIV) package cells.
+
+The boundary conditions were designed to produce flow that is generally from north to south. For the numerical model, constant-head conditions were specified along the northern and southern edges of the model domain, and no-flow boundaries were set along the east and west edges of the grid.
+
+![mf6-example6-7.png](../img/mf6-example6-7.png)
+
 
 ## EXERCISE 7
 
-The purpose of this exercise is to
+The purpose of this exercise is to load an existing model with SFR and LAK packages and add a MVR package to transfer water between the SFR and LAK packages. We will also convert the SFR inflows to use a time series file and add LAK and SFR observations. The model is the same as the model used in exercise 6 with the exception that the RIV and CHD package representing the lakes have been replaced by the SFR and LAK packages, respectively.
+
+If there is time we may create the SFR and LAK packages from raw data contained in ascii files instead of reading an existing model with these packages.
