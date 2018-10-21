@@ -10,14 +10,14 @@ October 22 - 26, 2018
 * Hotel Block: The Lincoln Marriott Cornhusker Hotel
 
 ## Course Description
-This class will cover many of the latest developments in groundwater-flow modeling in the following topical areas:  new and enhanced capabilities for modeling groundwater flow with MODFLOW 6; solute transport with MT3D–USGS;  groundwater/watershed interactions with GSFLOW and MODSIM, and parameter estimation and uncertainty analysis using PEST++. Most of the class will be taught using Flopy and Jupyter Notebooks.  In addition to lectures on the latest developments, most sessions will include in-class exercises to give attendees a better understanding of how to use the modeling tools.
+This class will cover many of the latest developments in groundwater-flow modeling in the following topical areas:  new and enhanced capabilities for modeling groundwater flow with MODFLOW 6; solute transport with MT3D-USGS;  groundwater/watershed interactions with GSFLOW and MODSIM, and parameter estimation and uncertainty analysis using PEST++. Most of the class will be taught using Flopy and Jupyter Notebooks.  In addition to lectures on the latest developments, most sessions will include in-class exercises to give attendees a better understanding of how to use the modeling tools.
 
 ## Overview
-* Monday: Python Basics, Flopy, MODFLOW 6
-* Tuesday: MODFLOW 6
-* Wednesday: MODFLOW 6, MODPATH 7
-* Thursday: PEST++
-* Friday: GSFLOW, MODSIM, MT3DMS
+* Monday: Python Basics, Flopy, PEST++
+* Tuesday: PEST++, MODFLOW 6
+* Wednesday: MODFLOW 6
+* Thursday: MODFLOW 6, GSFLOW
+* Friday: GSFLOW, MODSIM, MT3D-USGS
 
 ## Instructors
 * Mike Fienen
@@ -30,7 +30,7 @@ This class will cover many of the latest developments in groundwater-flow modeli
 
 The following tentative agenda is based on a start time each morning of 8:30 AM and an ending time each day of 4:30 PM.  The agenda may be adjusted during the week in response to student requests.
 
-### Monday (Flopy, MODFLOW 6)
+### Monday (Flopy, PEST++)
 
 |Time      |Topic                            |Lead, Duration              |
 |----------|---------------------------------|----------------------------|
@@ -39,14 +39,30 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 |10:30 AM  |BREAK                            |15 minutes                  |
 |10:45 AM  |Flopy Introduction (flopy ex01)  |1 hour 15 minutes, Hughes   |
 |12:00 PM  |LUNCH                            |1 hour 15 minutes           |
-|1:15 PM   |MODFLOW 6 Overview               |45 minutes, Langevin        |
-|2:00 PM   |MODFLOW 6 IO (mf6 ex01)          |45 minutes, Langevin        |
-|2:45 PM   |BREAK                            |15 minutes                  |
-|3:00 PM   |mf6 ex01 (cont)                  |30 minutes, Langevin        |
-|3:30 PM   |MODFLOW 6 and Flopy (mf6 ex02)   |45 minutes, Langevin        |
+|1:15 PM   |Obtaining Software				 |1 hour, Fienen              |
+|2:15 PM   |PEST Overview					 |1 hour, Fienen              |
+|3:15 PM   |BREAK				             |15 minutes                  |
+|3:30 PM   |Uncertainty Analysis			 |1 hour, Fienen              |
 |4:30 PM   |ADJOURN                          |                            |
 
-### Tuesday (MODFLOW 6)
+
+### Tuesday (PEST++, MODFLOW 6)
+
+|Time       |Topic                            |Duration, Lead        |
+|-----------|---------------------------------|----------------------|
+|8:30 AM	|Pilot Points					  |1 hour, Fienen        |
+|9:30 AM	|iES 					          |1 hour, Fienen        |
+|10:30 PM   |BREAK				              |15 minutes            |
+|10:45 PM   |xxx				              |1 hour 15 minutes     |
+|12:00 PM   |LUNCH                            |1 hour 15 minutes     |
+|1:15 PM    |MODFLOW 6 Overview               |45 minutes, Langevin  |
+|2:00 PM    |MODFLOW 6 IO (mf6 ex01)          |45 minutes, Langevin  |
+|2:45 PM    |BREAK                            |15 minutes            |
+|3:00 PM    |mf6 ex01 (cont)                  |30 minutes, Langevin  |
+|3:30 PM    |MODFLOW 6 and Flopy (mf6 ex02)   |45 minutes, Langevin  |
+|4:30 PM    |ADJOURN                          |                      |
+
+### Wednesday (MODFLOW 6)
 
 |Time       |Topic                           |Duration, Lead        |
 |-----------|--------------------------------|----------------------|
@@ -63,7 +79,7 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 |3:30 PM	|mf6 ex05 (cont)			     |1 hour, Langevin      |
 |4:30 PM	|ADJOURN                         |                      |
 
-### Wednesday (MODFLOW 6)
+### Thursday (MODFLOW 6, GSFLOW)
 
 |Time       |Topic                  |Duration, Lead        |
 |-----------|-----------------------|----------------------|
@@ -75,22 +91,7 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 |1:15 PM	|xxx					|1 hour, xxx           |
 |2:15 PM	|xxx					|1 hour, xxx           |
 |3:15 PM    |BREAK				    |15 minutes            |
-|3:30 PM	|xxx					|1 hour, xxx           |
-|4:30 PM	|ADJOURN                |                      |
-
-### Thursday (PEST++, GSFLOW)
-
-|Time       |Topic                  |Duration, Lead        |
-|-----------|-----------------------|----------------------|
-|8:30 AM	|Obtaining Software					|1 hour, Fienen           |
-|9:30 AM 	|PEST Overview					|1 hour, Fienen           |
-|10:30 AM	|BREAK				    |15 minutes            |
-|10:45 AM	|Uncertainty Analysis					|1 hour 15 minutes, Fienen |
-|12:00 PM	|LUNCH				    |1 hour 15 minutes     |
-|1:15 PM	|Pilot Points					|1 hour, Fienen           |
-|2:15 PM	|iES 					|1 hour, Fienen           |
-|3:15 PM    |BREAK				    |15 minutes            |
-|3:30 PM	|GSFLOW overview		|1 hour, Rich           |
+|3:30 PM	|GSFLOW overview		|1 hour, Rich          |
 |4:30 PM	|ADJOURN                |                      |
 
 ### Friday (GSFLOW, MODSIM, MT3DMS)
@@ -109,7 +110,6 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 ## Software
 
 * mf6
-* mf6beta (with CSUB and GWT)
 * zbud6
 * mf5to6
 * modpath7
@@ -117,12 +117,11 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 * gsflow
 * pestpp
 * gridgen
-* triangle
 * model viewer
 * ArcGIS (10.5 or newer)
     * Python 2.7 package --- Jupyter
 * git
-* Anaconda Python Distribution
+* Miniconda Python Distribution
     * Python version 3.6 or newer
     * Jupyter
     * Numpy
@@ -131,5 +130,4 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
     * Scipy
     * Flopy
     * Pyshp
-    * Geopandas
 
