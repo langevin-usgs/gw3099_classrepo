@@ -51,9 +51,9 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 |Time       |Topic                            |Duration, Lead        |
 |-----------|---------------------------------|----------------------|
 |8:30 AM	|Pilot Points					  |1 hour, Fienen        |
-|9:30 AM	|iES 					          |1 hour, Fienen        |
+|9:30 AM	|Advanced Uncertainty Analysis 					          |1 hour, Fienen        |
 |10:30 PM   |BREAK				              |15 minutes            |
-|10:45 PM   |xxx				              |1 hour 15 minutes     |
+|10:45 PM   |iES				              |1 hour 15 minutes, Fienen     |
 |12:00 PM   |LUNCH                            |1 hour 15 minutes     |
 |1:15 PM    |MODFLOW 6 Overview               |45 minutes, Langevin  |
 |2:00 PM    |MODFLOW 6 IO (mf6 ex01)          |45 minutes, Langevin  |
