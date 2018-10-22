@@ -81,18 +81,17 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 
 ### Thursday (MODFLOW 6, GSFLOW)
 
-|Time       |Topic                  |Duration, Lead        |
-|-----------|-----------------------|----------------------|
-|8:30 AM	|xxx					|1 hour, xxx           |
-|9:30 AM 	|xxx					|1 hour, xxx           |
-|10:30 AM	|BREAK				    |15 minutes            |
-|10:45 AM	|xxx					|1 hour 15 minutes, xxx|
-|12:00 PM	|LUNCH				    |1 hour 15 minutes     |
-|1:15 PM	|xxx					|1 hour, xxx           |
-|2:15 PM	|xxx					|1 hour, xxx           |
-|3:15 PM    |BREAK				    |15 minutes            |
-|3:30 PM	|GSFLOW overview		|1 hour, Rich          |
-|4:30 PM	|ADJOURN                |                      |
+|Time       |Topic                       |Duration, Lead           |
+|-----------|----------------------------|-------------------------|
+|8:30 AM	|MODFLOW 6 OBS (mf6 ex06)    |1 hour, Hughes           |
+|9:30 AM 	|mf6 ex06				     |1 hour, Hughes           |
+|10:30 AM	|BREAK				         |15 minutes               |
+|10:45 AM	|MODFLOW 6 Advanced Packages |1 hour 15 minutes, Hughes|
+|12:00 PM	|LUNCH				         |1 hour 15 minutes        |
+|1:15 PM	|mf6 ex07					 |2 hours, Hughes          |
+|3:15 PM    |BREAK				         |15 minutes               |
+|3:30 PM	|GSFLOW overview		     |1 hour, Rich             |
+|4:30 PM	|ADJOURN                     |                         |
 
 ### Friday (GSFLOW, MODSIM, MT3DMS)
 
