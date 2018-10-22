@@ -39,7 +39,7 @@ The following tentative agenda is based on a start time each morning of 8:30 AM 
 |10:30 AM  |BREAK                            |15 minutes                  |
 |10:45 AM  |Flopy Introduction (flopy ex01)  |1 hour 15 minutes, Hughes   |
 |12:00 PM  |LUNCH                            |1 hour 15 minutes           |
-|1:15 PM   |Obtaining Software				 |1 hour, Fienen              |
+|1:15 PM   |Obtaining Software/Setup				 |1 hour, Fienen              |
 |2:15 PM   |PEST Overview					 |1 hour, Fienen              |
 |3:15 PM   |BREAK				             |15 minutes                  |
 |3:30 PM   |Uncertainty Analysis			 |1 hour, Fienen              |
