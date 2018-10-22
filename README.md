@@ -5,6 +5,11 @@ Advanced Modeling of Groundwater Flow (GW3099)
 Lincoln, Nebraska
 October 22 - 26, 2018
 
+## Mifi Hotspots
+* Verizon-MiFi6620L-F47F password: 8a300fe6
+* Verizon-791L-25D1 password: 0d65f31d
+* Verizon-MiFi6620L-DA2A password: b3126801
+
 ## Location
 * Classroom: Nebraska State Office Building, 1526 K Street, Lincoln, NE.  We will be in the basement training room Mon-Wed and the 4th floor conference room (called Hearing Room 4D) on Thurs-Fri.
 * Hotel Block: The Lincoln Marriott Cornhusker Hotel
