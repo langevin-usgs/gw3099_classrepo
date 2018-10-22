@@ -7,6 +7,7 @@ October 22 - 26, 2018
 
 ## Mifi Hotspots
 * Verizon-MiFi6620L-F47F password: 8a300fe6
+* Verizon-MiFi5510L-AD68 password: 80b5ac86
 * Verizon-791L-25D1 password: 0d65f31d
 * Verizon-MiFi6620L-DA2A password: b3126801
 
