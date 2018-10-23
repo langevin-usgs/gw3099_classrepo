@@ -23,12 +23,14 @@ def add_to_config(name, exeext):
 
 
 mfexe = os.path.abspath(os.path.join(exepth, 'mf2005{}'.format(exeext)))
+mfnwtexe = os.path.abspath(os.path.join(exepth, 'mfnwt{}'.format(exeext)))
 mpexe = os.path.abspath(os.path.join(exepth, 'mp7{}'.format(exeext)))
 mtexe = os.path.abspath(os.path.join(exepth, 'mt3dms{}'.format(exeext)))
+mt3dusgsexe = os.path.abspath(os.path.join(exepth, 'mt3dusgs{}'.format(exeext)))
 mf6exe = os.path.abspath(os.path.join(exepth, 'mf6{}'.format(exeext)))
 gridgenexe = os.path.abspath(os.path.join(exepth, 'gridgen{}'.format(exeext)))
 
-exelist = [mfexe, mpexe, mtexe, mf6exe, gridgenexe]
+exelist = [mfexe, mfnwtexe, mpexe, mtexe, mt3dusgsexe, mf6exe, gridgenexe]
 for e in exelist:
     if not os.path.isfile(e):
         print('Executable file could not be found: {}'.format(e))
