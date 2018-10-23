@@ -13,7 +13,7 @@ The system is simulated with a traditional structured model grid consisting of 3
 
 ![mf6-example1b.png](../img/mf6-example1b.png)
 
-The well is located in row 11, column 10, and layer 3. The river is located in layer 1, column 20, rows 1 - 21.
+The well is located in row 11, column 10, and layer 3. The river is located in layer 1, column 20, rows 1 - 21.  The river conductance is 100,000 ft squared per day.  The river stage is 320. ft and the river bottom is at 318 ft.
 
 The purpose of this problem is to become familiar with the MODFLOW 6 input files by creating the files by hand for Example Problem 1.  This requires creating the following files: mfsim.nam, ex02.tdis, ex02.ims, ex02.nam, ex02.dis, ex02.npf, ex02.ic, ex02.wel, ex02.riv, ex02.rch, ex02.oc.
 
