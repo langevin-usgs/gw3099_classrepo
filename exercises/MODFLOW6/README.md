@@ -13,7 +13,7 @@ The system is simulated with a traditional structured model grid consisting of 3
 
 ![mf6-example1b.png](../img/mf6-example1b.png)
 
-The well is located in row 11, column 10, and layer 3. The river is located in layer 1, column 20, rows 1 - 21.
+The well is located in row 11, column 10, and layer 3. The river is located in layer 1, column 20, rows 1 - 21.  The river conductance is 100,000 ft squared per day.  The river stage is 320. ft and the river bottom is at 318 ft.
 
 The purpose of this problem is to become familiar with the MODFLOW 6 input files by creating the files by hand for Example Problem 1.  This requires creating the following files: mfsim.nam, ex02.tdis, ex02.ims, ex02.nam, ex02.dis, ex02.npf, ex02.ic, ex02.wel, ex02.riv, ex02.rch, ex02.oc.
 
@@ -33,7 +33,7 @@ Concepts to focus on for this exercise:
 7. Output Files
     * mfsim.lst, gwf.lst, ex02.dis.grb, ex02.hds, ex02.cbc
 
-The sequence of steps will be as follows:
+The sequence of steps are
 1. Create the input files
 2. Run the model
 3. View the results with Model Viewer
@@ -46,9 +46,20 @@ The sequence of steps will be as follows:
 
 The purpose of this exercise is to learn how to use Flopy to create MODFLOW 6 models.  We will create the same model as in the first exercise, except we will construct the model in a jupyter notebook.
 
+The sequence of steps are
+1. Use flopy to create the input files
+2. Run the model
+3. Plot the model results
+
 ## EXERCISE 3
 
-The purpose of this exercise is to introduce the Discretization by Vertices (DISV) Package.  In this exercise, we will again create the same model except we will construct the grid using cell vertices and a cell definition list.
+The purpose of this exercise is to introduce the Discretization by Vertices (DISV) Package.  In this exercise, we will again create the same model as before except we will construct the grid using cell vertices and a cell definition list.
+
+The sequence of steps are
+1. Define the problem parameters
+2. Define VERTICES and CELL2D
+3. Create the flopy MODFLOW 6 model
+4. Load the binary grid file, head, and budget file
 
 ## EXERCISE 4
 
